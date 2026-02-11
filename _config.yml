@@ -25,6 +25,10 @@ baseurl: "/jekyll-theme-leaf-example" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+iconURL: assets/default-icon.png
+social:
+  twitter: YOUR_TWITTER
+  github: https://github.com/supun-io/jekyll-theme-leaf
 
 # Build settings
 # theme: minima
