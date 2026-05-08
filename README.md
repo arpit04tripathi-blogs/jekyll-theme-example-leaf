@@ -1,10 +1,10 @@
-# jekyll-theme-leaf-example
+# jekyll-theme-example-leaf
 
 Template to start a jekyll repo using docker.
 
 ***table of contents***
 
-- [jekyll-theme-leaf-example](#jekyll-theme-leaf-example)
+- [jekyll-theme-example-leaf](#jekyll-theme-example-leaf)
   - [Getting started](#getting-started)
   - [Running on local](#running-on-local)
   - [Troubleshooting](#troubleshooting)
